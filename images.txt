@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/amd64 nginx:1.26.0
---platform=linux/amd64 emqx:5.7
+--platform=linux/amd64 tdengine/tdengine:3.3.2.0
