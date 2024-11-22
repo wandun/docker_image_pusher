@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/amd64 nginx:1.26.0
---platform=linux/amd64 apacherocketmq/rocketmq-dashboard:latest
+--platform=linux/amd64 getmeili/meilisearch:v1.11.3
