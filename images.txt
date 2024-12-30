@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/amd64 nginx:1.26.0
---platform=linux/amd64 emqx/emqtt-bench:latest
+--platform=linux/amd64 minio/minio:RELEASE.2022-10-05T14-58-27Z
