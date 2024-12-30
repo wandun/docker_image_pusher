@@ -3,4 +3,5 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/amd64 nginx:1.26.0
---platform=linux/amd64 mysql:8.0.27
+--platform=linux/amd64 rabbitmq:3.11-management
+--platform=linux/amd64 nginx:1.23.4
