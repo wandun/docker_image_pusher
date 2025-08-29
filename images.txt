@@ -3,4 +3,4 @@
 #xhofe/alist:latest
 #支持指定架构
 #--platform=linux/amd64 nginx:1.26.0
---platform=linux/amd64 mongo:8.0.9
+--platform=linux/amd64 sapse/abap-cloud-developer-trial:2023
